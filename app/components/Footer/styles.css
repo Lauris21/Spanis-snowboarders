@@ -1,0 +1,46 @@
+footer {
+  display: flex;
+  margin-top: 0;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  background: inherit;
+  height: 1rem;
+  background-color: #1867c700;
+}
+
+footer ul {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 1rem;
+  margin: 1rem 0 0;
+  background: transparent;
+}
+
+footer li {
+  transition: all 0.3s ease-in-out;
+  list-style-type: none;
+}
+
+footer li:hover {
+  transform: scale(1.2);
+  color: #1867c7;
+}
+
+.footer > a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  height: 2.5rem;
+}
+
+footer li a img {
+  height: 25px;
+  width: 25px;
+  margin-right: 1rem;
+}
+

@@ -1,0 +1,19 @@
+
+div .home {
+    height: -webkit-fill-available;
+    display: flex;
+    justify-content: center;
+}
+
+.home h1 {
+    position: absolute;
+    margin-top: 3rem;
+    background: rgba(245, 222, 179, 0);
+}
+h1 {
+    color: var(--primary);
+    font-size: 5rem;
+    text-shadow: var(--terciary) 5px 10px 20px;
+    flex-wrap: wrap;
+}
+

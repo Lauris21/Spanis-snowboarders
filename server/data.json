@@ -1,0 +1,117 @@
+{
+    "championsSnow": [
+        {
+            "id": 1,
+            "name": "Lucas Eguibar",
+            "age": 28,
+            "speciality": "Campo a través.",
+            "awards": "Ganó tres medallas en el Campeonato Mundial de Snowboard, oro en 2021 y dos de plata en 2017.",
+            "photo": "https://as01.epimg.net/juegos_olimpicos/imagenes/2022/02/08/noticias/1644294120_449513_1644294398_sumario_normal.jpg"
+
+        },
+        {
+            "id": 2,
+            "name": "Queralt Castellet",
+            "age": 33,
+            "speciality": "Halfpipe",
+            "awards": "Subcampeona olímpica en Pekín 2022, y subcampeona del mundo en 2015.",
+            "photo": "https://www.publico.es/uploads/2022/02/10/6204c25f0b381.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Regino Hernández",
+            "age": 31,
+            "speciality": "Campo a través.",
+            "awards": "Medalla de bronce en los Juegos Olímpicos de 2018",
+            "photo": "https://www.turiski.es/wp-content/uploads/2017/09/web-170909-RFEDI-SBX-Bariloche-ReginoHernandez.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "Javier Lliso",
+            "age": 25,
+            "speciality": "Esquí acrobático",
+            "awards": "Ha ocupado el sexto lugar en la prueba de big air, en los Juegos Olímpicos de Pekín 2022.",
+            "photo": "https://www.avancedeportivo.es/wp-content/uploads/210716-Javi-Lliso-retrato-scaled.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Ana Salvador",
+            "age": 31,
+            "speciality": "Freeride",
+            "awards": "Ganó en la competición de las Leñas, en Argentina",
+            "photo": "https://img.redbull.com/images/c_crop,x_521,y_0,h_1335,w_1068/c_fill,w_400,h_540/q_auto:low,f_auto/redbullcom/2018/04/03/8ce472ad-b7a9-4cb6-9c09-36ab4a1d3d93/ana-salvador-temporada-2018"
+        },
+        {
+            "id": 6,
+            "name": "Nuria Castán",
+            "age": 26,
+            "speciality": "Freeride",
+            "awards": "Subcampeona de Europa en el Freeride Junior Tour de 2015.",
+            "photo": "https://www.lugaresdenieve.com/sites/default/files/nuria-castan-ontafon-marc-grajera-foto.jpg"
+        }
+    ],
+     "places": [
+        {
+            "id": 1,
+            "station": "Baqueira Beret",
+            "location": "Valle de Arán, Lérida",
+            "tracks":112,
+            "img": "https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2020/12/15/baqueira-beret-este-martes.jpeg"
+        },
+        {
+            "id": 2,
+            "station": "Candanchú",
+            "location": "Pirineo Aragonés, Huesca",
+            "tracks":51,
+            "img": "https://www.lugaresdenieve.com/sites/default/files/estaciones/candanchu-vista-general.jpg"
+        },
+        {
+            "id": 3,
+            "station": "Formigal",
+            "location": "Pirineo Aragonés, Huesca",
+            "tracks":97,
+            "img": "https://www.lugaresdenieve.com/sites/default/files/aramon-formigal-panticosa.JPG"
+        },
+        {
+            "id": 4,
+            "station": "Sierra Nevada",
+            "location": "Parque Nacional de Sierra Nevada, Granada",
+            "tracks":124,
+            "img": "https://marbelwear.com/img/leoblog/b/1/20/lg-b-sierra-nevada_1.jpg"
+        },
+        {
+            "id": 5,
+            "station": "Cerler",
+            "location": "Cerler, Huesca",
+            "tracks":29,
+            "img": "https://www.turismodearagon.com/wp-content/uploads/2014/04/CERLER-paisaje.jpg"
+        }    
+    ],
+         "brands": [
+        {
+            "id": 1,
+            "brand": "Burton",
+            "logo": "https://www.skisises.it/img/m/87-large_default.jpg"
+        },
+        {
+            "id": 2,
+            "brand": "Mountain",
+            "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPsAAADJCAMAAADSHrQyAAAAclBMVEX///8AAADr6+v8/Pzz8/NsbGz6+vrg4ODj4+Pd3d06OjpmZmZdXV3u7u4rKyudnZ14eHhNTU2IiIjU1NS7u7uUlJRGRkampqY1NTXGxsZYWFjOzs4TExOTk5NRUVF0dHSkpKSysrIREREdHR2FhYUbGxvb9QZzAAAD70lEQVR4nO3b6XqqMBCAYQNo3XBDca1abe//Fo9hk4SlmybQ872/rD7SDJBkZmg7HQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAX+bsbI/AnqEY2x6CLTMhxMn2IOw4C+nd9jBsCERsansg5jki9WZ7KMaFWexia3sshnVFzt72aIxaC8WL7fEYtBcax/aIjPH10MXEsz0mUzZCXPtzNXjX9qCeL5guZrclfuJ3vA8l+KPtkT3dNg50Lq9yX73t/3pdk6xxYzf/U2pmeXDPtdeCHKrBL2yO7TGcoOKDQA9xqq32ZxPDeyb/QyxLP0hCz9Uu2oxvfWrvbiou4KAkvFAPvtWpvRtv28WWxKAsuDc99lan9uN0x+qp77/Eb2tLwboQu+ibG+uDneTw5V0vJkqKHs/sgxZYSeji0tbU/l2OvttZ6Ne4f4nOiRZWWehCfGh3TEus4tDTzStb7uMeTagFpe9wqWEbg4+u4+j+UrzG7zvXaAXQqpWq0G8Zr+FxP8DyHnq6gkfLvX9Ib4e8VWXo94O0RlSm3J81xMHPex1/Il/o+epLTeitS+0DNfT0uk4GUeiFRvSoNvZ2pfbRdcyVoZ4SSiFXHdSH3qquvXNRQ1enczG/71aEXDxdblheHTSGJ2/sfOfFzYdRrOvqZ3ssyX7n2XbRPK7rBFtZk8zze1huA7sMil+KZ/vhWBt8dMp28tW4eTu+090Ns6abuinvsgiufvGL0Wy/rt2OV73Ji6hrn5QHk6Zl+dGNngrVzCUrTodlzWc526fxF3o10V+cU/a6WcWtKztOwzA87saj0UlL2jbJkEu7r7fZPrufkt5r7Z2fatTCL2/rdcVn3iEesJ7MJd8M1SXAn30l+PJjWSGXq8rdJ3nAXJ6e9Yudqf64NuzYsCnVraxWq3ss8R62+sbx9oX2VYmqJqhZt9TlUrP2Rs3oqglRIdh9Fvq3D/kUb3pfpvh59YSoNPj8zrdf5CyLjQjV6w+bjv1CrjvfLpSfQ8sPbIPsqVKVd1GSzH2Jo6z5R3kGfSX6w0+P/BCDz/8qrvuLPMzLQh0NCm9JFh9g+F+orn+Xf3tREXjKnz/l2lsr7r2rOD//t0zf9TLAy6V/R0u1zfAHC/hj5KK3U9scbT41yqX+Fmqb0Y8X8Mfwsn6Q8YbGzP4TI3d1SXYBs5P+9dCEPwVLGx6bkq7I06xDg7+s1vRgeNIvG/RPDkm7x1Rts7VfRyim8imfmYZG8J1q3Ije2VBtU9JsaYDz1UBDw2tGy6Sgt37+pG/ew4HM+X/9XyvJPR+bkHbY8mY93QQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJP4B1p0hkkKERb4AAAAASUVORK5CYII="
+        },
+        {
+            "id": 3,
+            "brand": "Volcom",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Volcom_Circle_Stone.jpg"
+        },
+        {
+            "id": 4,
+            "brand": "Solomon",
+            "logo": "data:image/png;base64,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"
+        },
+        {
+            "id": 5,
+            "brand": "Roxy",
+            "logo": "data:image/png;base64,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" 
+        }    
+    ]
+}

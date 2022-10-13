@@ -1,0 +1,22 @@
+.boxBrand {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxBrand h4 {
+    padding-top: 2rem;
+    font-size: 2rem;
+    height: 4rem;
+}
+
+#optionBrands {
+    margin-top: 3rem;
+    width: 10rem;
+    height: 2rem;
+}
+
+#photoOption {
+    justify-content: center;
+}

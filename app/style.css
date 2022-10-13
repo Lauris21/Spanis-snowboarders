@@ -1,0 +1,36 @@
+
+:root {
+  --background: #081f2f;
+  --primary: #f9f6f4;
+  --secundary: #7ac6c7;
+  --terciary: #104747;
+}
+
+@font-face {
+  font-family: Hawkeye;
+  src: url(./Fonts/Hawkeye-mLZxx.ttf);
+  font-display: block;
+}
+* {
+  background-color: var(--primary);
+  padding: 0;
+  margin: 0;
+  color: var(--background);
+  box-sizing: border-box;
+  font-family: Hawkeye, sans-serif;
+  
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  min-height: 100vh;
+ 
+
+}
+#app {
+  width: 100%;
+}
+
+
+
